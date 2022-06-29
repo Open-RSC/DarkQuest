@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Andmet/Documents and Settings/Pets/Desktop/Eclipse/DarkQuest Server &amp; Loginserver/rsca f2p client/lib/xstream.jar"/>
+	<classpathentry kind="lib" path="C:/Andmet/Documents and Settings/Pets/Desktop/Eclipse/DarkQuest Server &amp; Loginserver/rsca f2p client/lib/defs.jar"/>
+	<classpathentry kind="lib" path="C:/Andmet/Documents and Settings/Pets/Desktop/Eclipse/DarkQuest Server &amp; Loginserver/rsca f2p client/lib/hex-string.jar"/>
+	<classpathentry kind="lib" path="C:/Andmet/Documents and Settings/Pets/Desktop/Eclipse/DarkQuest Server &amp; Loginserver/rsca f2p client/lib/slf4j.jar"/>
+	<classpathentry kind="lib" path="C:/Andmet/Documents and Settings/Pets/Desktop/Eclipse/DarkQuest Server &amp; Loginserver/rsca f2p client/lib/xpp3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/User/workspace/DarkQuest Client/lib/jmf.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

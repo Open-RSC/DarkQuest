@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Andmet/Documents and Settings/Pets/Desktop/Eclipse/DarkQuest Server &amp; Loginserver/rsca f2p/lib/bsh.jar"/>
+	<classpathentry kind="lib" path="C:/Andmet/Documents and Settings/Pets/Desktop/Eclipse/DarkQuest Server &amp; Loginserver/rsca f2p/lib/hex-string.jar"/>
+	<classpathentry kind="lib" path="C:/Andmet/Documents and Settings/Pets/Desktop/Eclipse/DarkQuest Server &amp; Loginserver/rsca f2p/lib/jmf.jar"/>
+	<classpathentry kind="lib" path="C:/Andmet/Documents and Settings/Pets/Desktop/Eclipse/DarkQuest Server &amp; Loginserver/rsca f2p/lib/junit.jar"/>
+	<classpathentry kind="lib" path="C:/Andmet/Documents and Settings/Pets/Desktop/Eclipse/DarkQuest Server &amp; Loginserver/rsca f2p/lib/mina1.1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Andmet/Documents and Settings/Pets/Desktop/Eclipse/DarkQuest Server &amp; Loginserver/rsca f2p/lib/mina2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Andmet/Documents and Settings/Pets/Desktop/Eclipse/DarkQuest Server &amp; Loginserver/rsca f2p/lib/mina.jar"/>
+	<classpathentry kind="lib" path="C:/Andmet/Documents and Settings/Pets/Desktop/Eclipse/DarkQuest Server &amp; Loginserver/rsca f2p/lib/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="C:/Andmet/Documents and Settings/Pets/Desktop/Eclipse/DarkQuest Server &amp; Loginserver/rsca f2p/lib/pircbot.jar"/>
+	<classpathentry kind="lib" path="C:/Andmet/Documents and Settings/Pets/Desktop/Eclipse/DarkQuest Server &amp; Loginserver/rsca f2p/lib/slf4j.jar"/>
+	<classpathentry kind="lib" path="C:/Andmet/Documents and Settings/Pets/Desktop/Eclipse/DarkQuest Server &amp; Loginserver/rsca f2p/lib/xpp3.jar"/>
+	<classpathentry kind="lib" path="C:/Andmet/Documents and Settings/Pets/Desktop/Eclipse/DarkQuest Server &amp; Loginserver/rsca f2p/lib/xstream.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
